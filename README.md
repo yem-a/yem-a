@@ -6,13 +6,13 @@ Exploring the intersection of technology, growth strategy, and intelligent softw
 🌱 **I’m currently learning:**  
 Frontend development using React, focusing on creating intuitive, user-friendly interfaces. I'm also diving deeper into product design and customer discovery to refine my startup ideas.
 
-💞️ **I’m looking to collaborate on:**  
+ **I’m looking to collaborate on:**  
 - SaaS applications for team growth and productivity  
 - AI-driven tools for startups  
 - Open-source frontend projects  
 
 📬 **How to reach me:**  
-- [LinkedIn](https://www.linkedin.com/in/yemadetunji/))  
+- [LinkedIn](https://www.linkedin.com/in/yemadetunji/)
 - Email: yemadetunji@outlook.com
   
 ⚡ **Fun fact:**  
