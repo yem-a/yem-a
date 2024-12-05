@@ -10,10 +10,6 @@ Frontend development using React, focusing on creating intuitive, user-friendly 
 - SaaS applications for team growth and productivity  
 - AI-driven tools for startups  
 - Open-source frontend projects  
-
-📬 **How to reach me:**  
-- [LinkedIn](https://www.linkedin.com/in/yemadetunji/)
-- Email: yemadetunji@outlook.com
   
 ⚡ **Fun fact:**  
 I transitioned from consulting at BCG to building startups. My dream is to create tools that empower teams and redefine how companies scale.
